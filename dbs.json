@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "moubow786@gmail.com",
+      "password": "12345"
+    },
+    {
+      "email": "ab2@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "ab2@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "a@g.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "mou@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ]
+}
